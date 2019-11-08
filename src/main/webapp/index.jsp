@@ -10,6 +10,7 @@
         <h1>Code Commited:: GitLab -> Jenkins -> Maven -> Nexus</h1>
         <h1>Build is Available:: Jenkins -> Deploy -> Nexus -> Tomcat7 --> poll scm </h1>
         <h1>Build is Available:: Jenkins -> Deploy -> Nexus -> Tomcat7 --> poll scm --> dependenet</h1>
+        <h1>Build is Available:: Jenkins -> Deploy -> Nexus -> Tomcat7 --> poll scm --> dependenet --> qa --> prod </h1>
              <!--GET all the <a href="${pageContext.request.contextPath}/resources/persons"/>persons</a>.-->
     </body>
 </html>
