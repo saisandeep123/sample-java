@@ -12,7 +12,7 @@
         <h1>Build is Available:: Jenkins -> Deploy -> Nexus -> Tomcat7 --> poll scm --> dependenet</h1>
         <h1>Build is Available:: Jenkins -> Deploy -> Nexus -> Tomcat7 --> poll scm --> dependenet --> testing dev</h1>
         <h1>Build is Available:: Jenkins -> Deploy -> Nexus -> Tomcat7 --> poll scm --> dependenet --> testing --> QA --> PROD</h1>
-        <h1>MPIT JENKINS PIPELINE COMPLETED successfully</h1>
+        <h1>MPIT JENKINS PIPELINE COMPLETED SUCCESSFULLY</h1>
              <!--GET all the <a href="${pageContext.request.contextPath}/resources/persons"/>persons</a>.-->
     </body>
 </html>
